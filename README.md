@@ -1,6 +1,6 @@
-# Learning-SOC
-Welcome to my SOC learning journey!  
-Here I document my progress, labs, and notes while learning cybersecurity (SOC / Blue Team).
+# Learning-IT
+Welcome to my IT learning journey!  
+Here I document my progress, labs, and notes while learning IT.
 
 ## Contents
 - Day-by-day notes
