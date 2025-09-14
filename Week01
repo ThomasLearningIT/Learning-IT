@@ -1,1 +1,35 @@
+# Week 1 – Mon parcours vers l’IT et le support technique
+
+Introduction  
+Cette première semaine marque le début officiel de mon projet **Learning IT** dans le but d'une reconversion professionelle.  
+Mon objectif est clair : construire pas à pas un socle solide en informatique afin de devenir **Computer Support Specialist** (technicien support informatique) et, plus tard, évoluer vers des postes plus techniques.
+
+Mon chemin jusqu’ici  
+Depuis longtemps passionné par l’informatique, j’ai monté et configuré plusieurs PC et j’ai touché à différents systèmes ( Kali Linux ) et langages (Python, Bash, un peu de PowerShell).  
+La cybersécurité m’a toujours attiré ; j’ai donc commencé par explorer ce domaine :  
+- Visionnage de nombreuses vidéos et lectures d’articles sur la sécurité.  
+- Suivi du **Google Cybersecurity Certificate**.  
+- Parcours **TryHackMe “Pre-Security”** effectué (Linux, bases réseau, notions Windows).  
+
+Ces premières explorations m’ont permis d’acquérir :  
+- Les bases des systèmes **Linux** (commandes courantes, scripts Bash).  
+- Une introduction aux **réseaux** (modèle OSI, IP, DNS, etc.).  
+- Les rudiments de la **sécurité informatique** (bonnes pratiques, identification des menaces).  
+
+Pourquoi le pivot vers l’IT classique  
+En consultant les offres d’emploi, j’ai constaté que les postes d’analyste SOC et de cybersécurité exigent souvent des diplômes avancés ou une solide expérience préalable.  
+La cybersécurité reste un objectif à moyen terme, mais ce n’est pas, pour moi, le point d’entrée le plus accessible.  
+En revanche, l’IT “classique” et le **support technique** offrent beaucoup plus d’opportunités et permettent d’acquérir rapidement un bagage pratique valorisable.
+
+Mon plan actuel  
+- **Arrêt temporaire** du parcours TryHackMe pour me consacrer au **Google IT Support Certificate**.  
+- Consolidation des bases réseau, Linux et Windows déjà abordées.  
+- Pratique régulière via labs et scripts.  
+- Organisation de mes notes et ressources dans ce dépôt GitHub pour suivre mes progrès.
+
+Pourquoi j’ai lancé “Learning IT”  
+Ce dépôt est mon journal d’apprentissage.  
+Chaque semaine, j’y déposerai mes notes, captures d’écran et éventuels scripts.  
+Objectif : documenter mon évolution, partager des ressources utiles et montrer concrètement les compétences acquises en chemin.  
+À terme, ce journal servira à la fois de **portfolio** et de **trace structurée** de mon auto-formation en IT.
 
